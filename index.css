@@ -1,0 +1,52 @@
+
+    
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('/home/ml/Documents/GitHub/Encaminando patitas /fotos/portada.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #E0FFFF; /* Celeste */
+    color: #333; /* Color de texto principal */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #E0FFFF; /* celeste */
+    color: #FFF;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+.contact-info {
+    background-color: #FFF;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.contact-info p {
+    font-size: 16px;
+    margin: 0;
+}
+
+.social-icons {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.social-icons a {
+    color: #333; /* Color de texto principal */
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+.social-icons a:hover {
+    color: #8B4513; /* Marrón al pasar el mouse */
+}
